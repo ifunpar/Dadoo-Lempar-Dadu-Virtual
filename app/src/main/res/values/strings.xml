@@ -1,25 +1,25 @@
 <resources>
-    <string name="app_name">Dadoo</string>
-    <string name="instruksi">Goyangkan smartphone atau tekan tombol untuk melempar dadu.</string>
-    <string name="lempar">Lempar Dadu</string>
-    <string name="tentang_dadoo_underlined"><u>Tentang Dadoo</u></string>
-    <string name="tentang_dadoo">Tentang Dadoo</string>
-    <string name="kembali">Kembali</string>
-    <string name="kode">Kode program:</string>
-    <string name="pengembang">Pengembang:</string>
-    <string name="dibuat">Aplikasi ini dibuat untuk menyelesaikan tugas kuliah di:</string>
-    <string name="url_informatika_unpar">https://informatika.unpar.ac.id</string>
-    <string name="url_kode_program">https://github.com/ifunpar/Dadoo-Lempar-Dadu-Virtual</string>
-    <string name="nama_kenny">Kenny Gohan Siahaan</string>
-    <string name="npm_kenny">(2015730065)</string>
-    <string name="nama_mega">Mega Rahmat</string>
-    <string name="npm_mega">(2017730021)</string>
-    <string name="nama_obed">Obed Kristiaji Sudarman</string>
-    <string name="npm_obed">(6181801003)</string>
-    <string name="nama_johan">Johan Adi Wiguna</string>
-    <string name="npm_johan">(6181801018)</string>
-    <string name="nama_lucyus">Lucyus Matthew Ardivan</string>
-    <string name="npm_lucyus">(6181801029)</string>
-    <string name="nama_craven">Craven Sachio Saputra</string>
-    <string name="npm_craven">(6181801063)</string>
+    <string name="app_name" translatable="false">Dadoo</string>
+    <string name="instruksi">Shake smartphone or press the button to roll the dice.</string>
+    <string name="lempar">Throw Dice</string>
+    <string name="tentang_dadoo_underlined"><u>About Dadoo</u></string>
+    <string name="tentang_dadoo">About Dadoo</string>
+    <string name="kembali">Back</string>
+    <string name="kode">Source code:</string>
+    <string name="pengembang">Developers:</string>
+    <string name="dibuat">This application was made to fulfill class assignment at:</string>
+    <string name="url_informatika_unpar" translatable="false">https://informatika .unpar.ac.id</string>
+    <string name="url_kode_program" translatable="false">https://github.com/ifunpar/Dadoo-Lempar-Dadu-Virtual</string>
+    <string name="nama_kenny" translatable="false">Kenny Gohan Siahaan</string>
+    <string name="npm_kenny" translatable="false">(2015730065)</string>
+    <string name="nama_mega" translatable="false">Mega Rahmat</string>
+    <string name="npm_mega" translatable="false">(2017730021)</string>
+    <string name="nama_obed" translatable="false">Obed Kristiaji Sudarman</string>
+    <string name="npm_obed" translatable="false">(6181801003)</string>
+    <string name="nama_johan" translatable="false">Johan Adi Wiguna</string>
+    <string name="npm_johan" translatable="false">(6181801018)</string>
+    <string name="nama_lucyus" translatable="false">Lucyus Matthew Ardivan</string>
+    <string name="npm_lucyus" translatable="false">(6181801029)</string>
+    <string name="nama_craven" translatable="false">Craven Sachio Saputra</string>
+    <string name="npm_craven" translatable="false">(6181801063)</string>
 </resources>
